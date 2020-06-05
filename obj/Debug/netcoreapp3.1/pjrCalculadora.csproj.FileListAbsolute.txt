@@ -1,0 +1,13 @@
+C:\Users\HOME\Documents\pjrCalculadora\obj\Debug\netcoreapp3.1\pjrCalculadora.csprojAssemblyReference.cache
+C:\Users\HOME\Documents\pjrCalculadora\obj\Debug\netcoreapp3.1\pjrCalculadora.AssemblyInfoInputs.cache
+C:\Users\HOME\Documents\pjrCalculadora\obj\Debug\netcoreapp3.1\pjrCalculadora.AssemblyInfo.cs
+C:\Users\HOME\Documents\pjrCalculadora\obj\Debug\netcoreapp3.1\pjrCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\pjrCalculadora\bin\Debug\netcoreapp3.1\pjrCalculadora.exe
+C:\Users\HOME\Documents\pjrCalculadora\bin\Debug\netcoreapp3.1\pjrCalculadora.deps.json
+C:\Users\HOME\Documents\pjrCalculadora\bin\Debug\netcoreapp3.1\pjrCalculadora.runtimeconfig.json
+C:\Users\HOME\Documents\pjrCalculadora\bin\Debug\netcoreapp3.1\pjrCalculadora.runtimeconfig.dev.json
+C:\Users\HOME\Documents\pjrCalculadora\bin\Debug\netcoreapp3.1\pjrCalculadora.dll
+C:\Users\HOME\Documents\pjrCalculadora\bin\Debug\netcoreapp3.1\pjrCalculadora.pdb
+C:\Users\HOME\Documents\pjrCalculadora\obj\Debug\netcoreapp3.1\pjrCalculadora.dll
+C:\Users\HOME\Documents\pjrCalculadora\obj\Debug\netcoreapp3.1\pjrCalculadora.pdb
+C:\Users\HOME\Documents\pjrCalculadora\obj\Debug\netcoreapp3.1\pjrCalculadora.genruntimeconfig.cache
