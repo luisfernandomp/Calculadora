@@ -7,7 +7,9 @@ namespace pjrCalculadora
         public float num1 { get; set; }
         public float num2 { get; set; }
         public string simbolo { get; set; }
-        protected float resultado { get; set; }
+        protected float resultado { get; set; } 
+        // // O atributo resultado foi definido como protected para que só a 
+        // classe média pudesse ter acesso a ele, pois a classe usa esse atributo.
         public string calculadora(string[] operar){
             bool teste = false;
             string result = "";
