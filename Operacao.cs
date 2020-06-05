@@ -7,9 +7,7 @@ namespace pjrCalculadora
         public float num1 { get; set; }
         public float num2 { get; set; }
         public string simbolo { get; set; }
-        public float resultado { get; set; }
-
-        Media md = new Media();
+        protected float resultado { get; set; }
         public string calculadora(string[] operar){
             bool teste = false;
             string result = "";
@@ -45,6 +43,7 @@ namespace pjrCalculadora
                     }
                 }
             }else{
+                Media md = new Media();
                 result = md.calcularMedia(operar);
                 return result;
             }
